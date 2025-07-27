@@ -1,0 +1,154 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Breakfast Ideas.pdf",
+      "Dinner Ideas - Mains_1.pdf",
+      "Dinner Ideas - Mains_2.pdf",
+      "Dinner Ideas - Mains_3.pdf",
+      "Dinner Ideas - Sides_1.pdf",
+      "Dinner Ideas - Sides_2.pdf",
+      "Dinner Ideas - Sides_3.pdf",
+      "Dinner Ideas - Sides_4.pdf",
+      "Lunch Ideas.pdf"
+    ],
+    "persona": "Food Contractor",
+    "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
+    "processing_timestamp": "2025-07-28 02:57:00.189021"
+  },
+  "extracted_sections": [
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 5
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 3,
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 4,
+      "page_number": 10
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 5,
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 6,
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 7,
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 8,
+      "page_number": 7
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 9,
+      "page_number": 15
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Instructions",
+      "importance_rank": 10,
+      "page_number": 10
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 11,
+      "page_number": 8
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 12,
+      "page_number": 12
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": " Preheat oven to 375°F (190°C).  In a skillet, cook ground beef, diced onion, and minced garlic until browned.  Stir in marinara sauce and simmer for 10 minutes.",
+      "page_number": 5
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "• 1 cup cherry tomatoes, halved • 1/2 cucumber, diced • 1/4 cup red onion, finely chopped • 1/4 cup black olives, sliced • 1/4 cup feta cheese, crumbled • 2 tablespoons olive oil • 1 tablespoon red wine vinegar • Salt and pepper to taste",
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": " In a small bowl, mix soy sauce, oyster sauce, sesame oil, cornstarch, and water.  In a large skillet, heat sesame oil over medium heat.  Cook sliced chicken until browned, then set aside.",
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": ": o Sauté ground beef, diced onion, and minced garlic until cooked. o Stir in chopped parsley, cumin, cinnamon, salt, and pepper. o Cut phyllo dough into strips and brush with melted butter.",
+      "page_number": 10
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "• 1 can chickpeas, drained and rinsed • 1/2 cup cherry tomatoes, halved • 1/2 cucumber, diced • 1/4 cup red onion, finely chopped • 1/4 cup feta cheese, crumbled • 2 tablespoons olive oil • 1 tablespoon lemon juice • Salt and pepper to taste",
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": ": o Mix rice flour, coconut milk, water, turmeric, and salt to form a batter. o Sauté sliced pork, shrimp, and diced onion until cooked. o Heat oil in a pan and pour in a ladle of batter, swirling to coat the pan.",
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": " Preheat oven to 375°F (190°C).  In a skillet, heat olive oil over medium heat. Sauté onion, garlic, zucchini, and bell pepper until tender.",
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": ": o Mix flour, butter, water, and beaten egg to form a dough, then let rest. o Sauté ground beef, diced onion, minced garlic, chopped olives, and raisins with cumin, paprika, and salt until cooked. o Roll out dough and cut into circles.",
+      "page_number": 7
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "refined_text": ": o Cut tortillas into strips and fry in oil until crispy. o Sauté diced onion and minced garlic in a pot until translucent. o Add diced tomatoes and cumin, cook for 5 minutes.",
+      "page_number": 15
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": ": o Cut tofu into cubes and set aside. o Sauté ground pork, diced onion, and minced garlic until browned. o Add chili bean paste, soy sauce, rice wine, and sugar, cook for 2 minutes.",
+      "page_number": 10
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": " Preheat oven to 375°F (190°C).  Cut a pocket into each chicken breast.  In a bowl, mix spinach, feta, sun-dried tomatoes, and garlic.",
+      "page_number": 8
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": " In a large pot, heat olive oil over medium heat.  Cook cubed chicken and sliced sausage until browned, then set aside.  In the same pot, sauté diced onion, minced garlic, and diced bell pepper until softened.",
+      "page_number": 12
+    }
+  ]
+}

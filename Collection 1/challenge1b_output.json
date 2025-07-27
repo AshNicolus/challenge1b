@@ -1,0 +1,152 @@
+{
+  "metadata": {
+    "input_documents": [
+      "South of France - Cities.pdf",
+      "South of France - Cuisine.pdf",
+      "South of France - History.pdf",
+      "South of France - Restaurants and Hotels.pdf",
+      "South of France - Things to Do.pdf",
+      "South of France - Tips and Tricks.pdf",
+      "South of France - Traditions and Culture.pdf"
+    ],
+    "persona": "Travel Planner",
+    "job_to_be_done": "Plan a trip of 5 days for a group of 10 college friends.",
+    "processing_timestamp": "2025-07-28 02:56:51.373515"
+  },
+  "extracted_sections": [
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Budget-Friendly Hotels",
+      "importance_rank": 1,
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Upscale Restaurants",
+      "importance_rank": 2,
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "Culinary Experiences",
+      "importance_rank": 3,
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Additional Tips:",
+      "importance_rank": 4,
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Conclusion",
+      "importance_rank": 5,
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Montpellier: A University City with Medieval Charm",
+      "importance_rank": 6,
+      "page_number": 10
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Aix-en-Provence: A City of Art and Culture",
+      "importance_rank": 7,
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Boutique Shopping",
+      "importance_rank": 8,
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Outdoor Adventures",
+      "importance_rank": 9,
+      "page_number": 9
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Aix-en-Provence: A City of Art and Culture",
+      "importance_rank": 10,
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "Pilgrimages",
+      "importance_rank": 11,
+      "page_number": 4
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Montpellier: A University City with Medieval Charm",
+      "importance_rank": 12,
+      "page_number": 10
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "• Ibis Budget Nice Californie Lenval (Nice): A budget-friendly hotel oﬀering comfortable rooms and easy access to the beach and city center. The modern amenities and convenient location make it a great choice for budget-conscious travelers. • Hotel Le Saint Paul (Nice): A charming hotel located in a historic building, oﬀering aﬀordable rates and beautiful views of the Mediterranean.",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "• AM by Alexandre Mazzia (Marseille): A two-Michelin-starred restaurant oﬀering a fine-dining experience with innovative dishes inspired by Mediterranean flavors. The artistic presentation and unique flavor combinations make it a culinary adventure. • Le Mirazur (Menton): Ranked among the world's best restaurants, Le Mirazur oﬀers a unique dining experience with a focus on fresh, local ingredients and innovative dishes.",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "In addition to dining at top restaurants, there are several culinary experiences you should consider: • Cooking Classes: Many towns and cities in the South of France oﬀer cooking classes where you can learn to prepare traditional dishes like bouillabaisse, ratatouille, and tarte tropézienne. These classes are a great way to immerse yourself in the local culture and gain hands-on experience with regional recipes. Some classes even include a visit to a local market to shop for fresh ingredients.",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "Pack a small travel umbrella, a reusable shopping bag, and a portable phone charger. Consider using a luggage scale to avoid overweight baggage fees.",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "Packing for a trip to the South of France involves considering the season, planned activities, and the needs of both adults and children. By following this comprehensive guide and incorporating the tips and tricks provided, you'll be well-prepared for a comfortable and enjoyable trip. Remember to pack light, versatile clothing, and essential items to make the most of your travel experience.",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "refined_text": "History Montpellier, founded in the 10th century, is known for its prestigious university and vibrant cultural scene. The city has a rich history, with a blend of medieval, Renaissance, and modern architecture. Montpellier has been a center of learning and innovation for centuries, attracting scholars and students from around the world.",
+      "page_number": 10
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "refined_text": "History Aix-en-Provence, founded by the Romans in 123 BC, is known for its elegant architecture, vibrant cultural scene, and association with the painter Paul Cézanne. The city's rich history is reflected in its beautiful buildings and lively atmosphere. Aix-en-Provence has been a center of art and learning for centuries, attracting artists, writers, and scholars.",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "• Cannes: Shop along the famous Rue d'Antibes, lined with high-end boutiques, designer stores, and luxury brands. • Aix-en-Provence: Browse shops and cafes on Cours Mirabeau, an elegant boulevard with a variety of stores. • Nice: Find charming boutiques in the old town, oﬀering handmade soaps, ceramics, and local crafts.",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "• Verdon Gorge: Take a family hike or rent paddle boats to explore the stunning Verdon Gorge. • Camargue Natural Park: Explore wetlands with wild horses and flamingos, and enjoy horseback riding, bird watching, and boat tours. • Various Locations: Try tree-top adventure parks with zip lines, rope bridges, and climbing challenges.",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "Aix-en-Provence, founded by the Romans in 123 BC, is known for its elegant architecture, vibrant cultural scene, and association with the painter Paul Cézanne. The city's rich history is reflected in its beautiful buildings and lively atmosphere. Key Historical Sites in Aix-en-Provence • Cours Mirabeau: This grand boulevard, lined with plane trees, cafes, and fountains, is the heart of Aix-en-Provence.",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "The South of France is home to several important pilgrimage sites. The town of Lourdes, located in the Pyrenees, is one of the most famous, attracting millions of visitors each year. Pilgrims come to Lourdes to visit the Sanctuary of Our Lady of Lourdes, where the Virgin Mary is said to have appeared to a young girl in 1858.",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "Montpellier, founded in the 10th century, is known for its prestigious university and vibrant cultural scene. The city has a rich history, with a blend of medieval, Renaissance, and modern architecture. Key Historical Sites in Montpellier • Place de la Comédie: The central square of Montpellier, this bustling area is surrounded by cafes, shops, and the impressive Opéra Comédie.",
+      "page_number": 10
+    }
+  ]
+}
