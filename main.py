@@ -11,9 +11,15 @@ import concurrent.futures
 from datetime import datetime
 from collections import Counter
 from sentence_transformers import SentenceTransformer, util
+from sentence_transformers import SentenceTransformer
+# model = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")
+# model.save("model")
+
 
 # ---------- CONFIG ----------
-EMBEDDING_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
+# EMBEDDING_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
+EMBEDDING_MODEL = "./model"
+
 TOP_K = 12
 MAX_PER_DOC = 2
 INTENTS_TOP_N = 1
