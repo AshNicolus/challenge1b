@@ -6,6 +6,5 @@ Make sure you're in the project folder containing the `Dockerfile`, `main.py`, a
 
 ```bash
 docker build --platform linux/amd64 -t mysolution:round1b .
-
-docker run --rm --network none mysolution:round1b
+docker run --rm --network none -v "${PWD}:/app" mysolution:round1b
 

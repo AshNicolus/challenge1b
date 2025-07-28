@@ -13,7 +13,11 @@
     ],
     "persona": "Food Contractor",
     "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
+<<<<<<< HEAD
     "processing_timestamp": "2025-07-28 06:18:56.009274"
+=======
+    "processing_timestamp": "2025-07-28 07:15:51.041329"
+>>>>>>> 466c73a549c6cbf977f285b74e04cabb623c2ee8
   },
   "extracted_sections": [
     {
