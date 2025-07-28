@@ -1,6 +1,3 @@
-Sure! Here’s a **more humanized and reader-friendly version** of your `approach_explanation.md` (within 400–500 words). This version avoids overly technical language while clearly explaining the logic:
-
-
 # 🧠 Approach Explanation – Challenge 1B: Persona-Driven Document Intelligence
 
 ## 👤 Problem Overview
